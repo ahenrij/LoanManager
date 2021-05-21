@@ -1,4 +1,4 @@
-# Gestionnaire de prêts ‚écrit en C++ 
+# Gestionnaire de prêts‚ écrit en C++ 
 Avec la bibliothèque Qt
 
 * Enregistrement de clients
