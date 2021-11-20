@@ -1,5 +1,5 @@
 # Gestionnaire de prêts en C++ 
-Ecrit en 2015 à les débuts en programmation :)
+Ecrit en 2015 à mes débuts en programmation :)
 Avec la bibliothèque Qt
 
 * Enregistrement de clients
