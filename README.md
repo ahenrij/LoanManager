@@ -1,4 +1,5 @@
-# Gestionnaire de prêts‚ écrit en C++ 
+# Gestionnaire de prêts en C++ 
+Ecrit en 2015 à les débuts en programmation :)
 Avec la bibliothèque Qt
 
 * Enregistrement de clients
